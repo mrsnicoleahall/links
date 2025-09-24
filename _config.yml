@@ -291,6 +291,24 @@ links:
     Color: '#00ab6c'
     Text_Color: '#ffffff'
 
+  - Name: Brand Design Sample 1
+    URL: https://www.figma.com/file/jDTC2AOUgTQviVDbIseF3J/Seerist?node-id=0:1
+    Icon-Class: fas fa-link
+    Color: '#1DB954'
+    Text_Color: '#ffffff'
+
+  - Name: Brand Design Sample 2
+    URL: https://xd.adobe.com/view/688f8407-8edb-48a6-8206-5d9040dd6e7c-3ddc/?hints=off
+    Icon-Class: fas fa-link
+    Color: '#00ab6c'
+    Text_Color: '#ffffff'
+    
+  - Name: Pitch Deck (Content, Design)
+    URL: https://drive.google.com/file/d/1Sc9TXDro75YD48HGL4c4YKUR1GbcuXon/view
+    Icon-Class: fas fa-link
+    Color: '#FFDD00'
+    Text_Color: '#000000'
+
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 #footer: 'Yes'
 
