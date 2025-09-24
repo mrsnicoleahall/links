@@ -294,13 +294,13 @@ links:
   - Name: Brand Design Sample 1
     URL: https://www.figma.com/file/jDTC2AOUgTQviVDbIseF3J/Seerist?node-id=0:1
     Icon-Class: fas fa-link
-    Color: '#1DB954'
+    Color: '#0073AA'
     Text_Color: '#ffffff'
 
   - Name: Brand Design Sample 2
     URL: https://xd.adobe.com/view/688f8407-8edb-48a6-8206-5d9040dd6e7c-3ddc/?hints=off
     Icon-Class: fas fa-link
-    Color: '#00ab6c'
+    Color: '#05CC46'
     Text_Color: '#ffffff'
     
   - Name: Pitch Deck (Content, Design)
